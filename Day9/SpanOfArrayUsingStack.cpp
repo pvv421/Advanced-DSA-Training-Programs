@@ -1,3 +1,4 @@
+//Span is the number of consecutive elements preceding the element which are less than or equal to the element's value.
 #include <bits/stdc++.h>
 using namespace std;
 void calculateSpan(int price[], int n, int S[])
@@ -24,5 +25,4 @@ int main()
     }
     cout << endl;
     return 0;
-
 }
