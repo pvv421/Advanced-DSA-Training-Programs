@@ -1,3 +1,6 @@
+/* Given two times and find the minutes in between.
+sample input1: 12:00am-12:00pm
+sample imput2: 9:00pm-10:00pm */
 #include <bits/stdc++.h>
 using namespace std;
 int countMinutes(string s)
