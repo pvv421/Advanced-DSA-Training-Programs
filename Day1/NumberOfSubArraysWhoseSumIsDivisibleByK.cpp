@@ -1,3 +1,4 @@
+/* Given an array and an integer K. find the count of subarrays of the given array whose sum is divisible by K */
 #include <bits/stdc++.h>
 using namespace std;
 int countSubArray(int * arr, int n, int value)
