@@ -1,3 +1,4 @@
+/* Build a stack in a way that we always access the minimum element in O(1) time. */
 #include <bits/stdc++.h>
 using namespace std;
 void push(stack<int> &s1, stack<int> &minimum, int n)
